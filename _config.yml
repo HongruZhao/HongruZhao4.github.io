@@ -22,7 +22,7 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hongru Zhao"
+  name             : #"Hongru Zhao"
   pronouns         : # example: "she/her"  
   bio              : #"5th year PhD student at UMN"
   location         : #"Minneapolis, MN, USA"
